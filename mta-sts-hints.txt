@@ -1817,7 +1817,6 @@ hyde-housing.co.uk
 hydenewhomes.co.uk
 i-am.cool
 i3.co.id
-iab.de
 iaptus.co.uk
 ibrsp.org
 icanada.ph
@@ -2840,7 +2839,6 @@ pottersschool.org
 pow3rcloud.com
 ppj.gov.my
 ppluk.com
-pragmatismo.com.br
 pramen.io
 prasket.net
 prcity.com
@@ -3787,7 +3785,6 @@ wallacecollection.org
 wallpaper-it.com
 walltopia.com
 walmradio.com
-walsall.gov.uk
 walthamforest.gov.uk
 wandsworth.gov.uk
 warminsterschool.org.uk
@@ -3843,7 +3840,6 @@ wfw.com
 whataustraliathinks.org.au
 whatbox.ca
 whatismyisp.com
-whatplug.info
 whitestripefoods.com
 whogivesacrap.org
 whonix.org
