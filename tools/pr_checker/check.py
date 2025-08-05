@@ -162,12 +162,14 @@ def check_files(current_filename: str, pull_request_filename: str) -> int:
         return 1
 
     # Entries must meet inclusion criteria
-    if not all(map(lambda domain: check(domain), added)):
+    add_results = [ check(domain) for domain in added ]
+    if not all(add_results):
         return 1
 
     # Entries that meet inclusion criteria cannot be removed
     # (without overriding this check)
-    if any(map(lambda domain: check(domain), removed)):
+    remove_results = [ check(domain) for domain in removed ]
+    if any(remove_results):
         return 1
 
     return 0
