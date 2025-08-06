@@ -968,7 +968,6 @@ delivr.com
 delphij.net
 delucapartners.it
 dementiasociety.org
-demographic-research.org
 dept.one
 derago.com
 derby.gov.uk
@@ -1506,7 +1505,6 @@ genially.com
 genr8electrical.com.au
 gensonline.eu
 geofox.org
-geomys.org
 georgebarnsdale.co.uk
 gerstbau.de
 getaloanforcash.com
@@ -2149,7 +2147,6 @@ lbmsolutions.co.uk
 lcmhawley.com
 leaf-it.com
 lebertad.com
-lecs.dev
 leecare.co.uk
 leecare.com.au
 leenanetempleton.com.au
@@ -3041,7 +3038,6 @@ runviably.com
 runxiyu.org
 rustdesk.com
 ruv-bkk.de
-rws.nl
 rwsh.ru
 rydercupeurope.com
 rzen.at
