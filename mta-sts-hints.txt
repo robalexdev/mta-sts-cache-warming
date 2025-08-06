@@ -1679,7 +1679,6 @@ hammer065.de
 handytick.de
 hangfire.io
 hannainst.com
-hansegas.com
 hants.gov.uk
 hapert.com
 hardingsgroup.com.au
@@ -3266,7 +3265,6 @@ solmar.nl
 somerset.gov.uk
 son-video.com
 sonoco.com
-sonos.com
 sonpo.cz
 soopy.moe
 sophiassuite.com.au
