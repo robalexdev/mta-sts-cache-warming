@@ -365,7 +365,6 @@ bcdme.com
 bcdtravel.com
 bcdtravel.com.br
 bcdtravel.eu
-bcdtravel.hk
 bceao.int
 bcpcouncil.gov.uk
 bdmat.org.uk
@@ -3766,7 +3765,6 @@ volvoklub.cz
 vomo.org
 voobly.com
 vpplc.com
-vse-agentur.de
 vsenet.de
 vtler-glabbich.de
 vurdst.dk
