@@ -88,7 +88,6 @@ aeficaz.com
 aehe.us
 aenso.com.au
 aeriothess.gr
-affidea.com
 affidea.pt
 affise.com
 afilio.de
@@ -778,7 +777,6 @@ cloudyit.co.uk
 clubamici.com.au
 clubedohardware.com.br
 clydeco.com
-cmcss.net
 cmgrouponline.com.au
 cmsrno.com
 cnlab.ch
@@ -1980,7 +1978,6 @@ jjwhotels.com
 jmswag.xyz
 jncc.gov.uk
 jobbase.io
-jobcenter-ge.de
 jobscan.co
 johnnybegood.fr
 johnnywas.com
@@ -2378,7 +2375,6 @@ middevon.gov.uk
 middlesbrough.gov.uk
 midlothian.gov.uk
 midna.dev
-midnightbsd.org
 mihomepaper.com
 miicat.eu
 mikrocloud.com
