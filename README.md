@@ -1,3 +1,7 @@
+> [!CAUTION]
+> https://gitlab.com/robalexdev/mta-sts-cache-warming
+
+
 # MTA-STS cache warming list
 
 A list of domains known to support MTA-STS.
